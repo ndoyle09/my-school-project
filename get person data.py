@@ -47,8 +47,6 @@ def source_mgr_names(num):
     print(names)
     names.to_csv('data/mgr_names.csv')
 
-
-
 source_schools(100)
 source_pm_names(50)
 source_mgr_names(6)

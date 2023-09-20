@@ -1,4 +1,14 @@
+teams = {
+    1: 'Luminary',
+    2: 'Apex',
+    3: 'Genesis',
+    4: 'Odyssey',
+    5: 'Endeavor',
+    6: 'Horizon'
+}
+
 from faker import Faker
+from faker_education import SchoolProvider
 import pandas as pd
 import random
 from datetime import datetime, timedelta
@@ -7,6 +17,7 @@ from teams import team_names
 # Initialize Faker and random seed
 fake = Faker()
 random.seed(42)
+fake.add_provider(SchoolProvider)
 
 
 def create_project_data(num):
@@ -59,8 +70,15 @@ def create_project_data(num):
     # Assign a team
     projects['team_name'] = random.choices(list(team_names.values()), k=num, weights=(33, 20, 15, 15, 10, 7))
 
+    projects['school_object'] = [fake.school_object() for _ in range(len(projects))]
 
-    # Save DataFrame to CSV
-    projects.to_csv('data/Projects.csv', index=False)
+    projects['school'] = projects['school_object'].apply(lambda x: x['school'])
+    projects['district'] = projects['school_object'].apply(lambda x: x['district'])
 
-    print("Dataset generated and saved as 'data/Projects.csv'")
+    projects = projects.drop(columns=['school_object'])
+
+    # projects.to_csv('scratch.csv')
+
+    print(projects)
+
+create_project_data(50)

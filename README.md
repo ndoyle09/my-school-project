@@ -1,4 +1,12 @@
 # my-school-project
+## Bugs and Enhancements
+- [x] Change `Team Name` to `Team ID` 
+- [ ] Standardize either `weights` or `cum_weights` for modules
+- [x] `Project Dataset` column names are wrong:'milestone_milestone_1_milestone_due_date'
+- [x] Rename dataset: `project_dataset` to `Projects` 
+- [x] Rename dataset: `mgr_names` to `Managers`
+- [x] Rename dataset: `pm_names` to `Project_Managers`
+- [ ] Update draw.io with real field names
 
 ## Goals and TO DO list
 ### Generating fake data
@@ -22,6 +30,7 @@
 - [ ] 
       
 ### Ingest fake data into Postgres
+Well apparently, Tableau Public cannot link to Postgres.  Maybe do this anyway to run queries?
 - [ ] Spin up a db with tables to store data.
 - [ ] Define constraints
 - [ ] Define table relationships

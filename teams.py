@@ -1,4 +1,4 @@
-alt_team_names = {
+team_names = {
     1: 'Luminary',
     2: 'Apex',
     3: 'Genesis',
@@ -6,3 +6,6 @@ alt_team_names = {
     5: 'Endeavor',
     6: 'Horizon'
 }
+
+# weights: 33, 20, 15, 15, 10, 7
+

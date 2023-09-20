@@ -1,14 +1,12 @@
-import source_person_data
-import create_project_data
+from src import data_generator
+from src import project_generator
 
 
 def main():
-    source_person_data.source_pm_names(50)
-    source_person_data.source_schools(500)
-    source_person_data.source_mgr_names(6)
-    create_project_data.create_project_data(500)
-
-# test rakim
+    data_generator.generate_project_managers(50)
+    data_generator.generate_school_districts(500)
+    data_generator.generate_supervisors(6)
+    project_generator.generate_projects(500)
 
 if __name__ == '__main__':
     main()

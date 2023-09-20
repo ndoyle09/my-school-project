@@ -33,11 +33,8 @@ def source_pm_names(num):
     pm_first_names = [fake.unique.first_name() for _ in range(num)]
     pm_last_names = [fake.unique.last_name() for _ in range(num)]
 
-    names_dict = {
-        'pm_first_name': pm_first_names,
-        'pm_last_name': pm_last_names
-    }
-    pm_names = pd.DataFrame(names_dict)
+    pm_names = pd.DataFrame(list(zip(pm_first_names, pm_last_names)),
+                                 columns=['pm_first_names', 'pm_last_names'])
 
     # Randomly assign PMs to a Project Team
     pm_names['team_name'] = random.choices(list(team_names.values()), k=num, weights=(33, 20, 15, 15, 10, 7))
@@ -55,11 +52,8 @@ def source_mgr_names(num):
     mgr_first_names = [fake.unique.first_name() for _ in range(num)]
     mgr_last_names = [fake.unique.last_name() for _ in range(num)]
 
-    names_dict = {
-        'mgr_first_name': mgr_first_names,
-        'mgr_last_name': mgr_last_names
-    }
-    mgr_names = pd.DataFrame(names_dict)
+    mgr_names = pd.DataFrame(list(zip(mgr_first_names, mgr_last_names)),
+                             columns=['mgr_first_name', 'mgr_last_name']).reset_index()
 
     # Assign Manager to a Project Team
     mgr_names['team_name'] = list(team_names.values())

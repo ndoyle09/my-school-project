@@ -2,54 +2,101 @@ from faker import Faker
 import pandas as pd
 import random
 from datetime import datetime, timedelta
-from data_generator import generate_school_districts
 
 # Initialize Faker and random seed
 fake = Faker()
 Faker.seed(0)
 random.seed(0)
 
-schools_df = generate_school_districts(15)
-print(schools_df)
+# Define project types with weights for assignment.
+project_types = {
+    'New Student Registration': 4150,
+    'Returning Student Registration': 3050,
+    'Registration': 2225,
+    'Application': 1350,
+    'Intent to Return': 425,
+    'Inquiry': 425,
+    'New Student Enrollment': 325,
+    'Pre-Registration': 275,
+    'Enrollment': 225,
+    'Information Update': 275,
+    'Application for Admission': 150,
+    'Returning Student Enrollment': 125,
+    'Student Registration': 100,
+    'Re-enrollment': 100,
+    'Enrollment Contract': 75,
+    'New Student Application': 75,
+    'New Student Pre-Registration': 75,
+    'Lottery Application': 75,
+    'Re-Registration': 50,
+    'Annual Update': 50,
+    'Student Information Update': 50,
+    'Bio Update': 50,
+    'Annual Student Update': 50,
+    'Returning Student Update': 50,
+    'Transfer Application': 50
+}
+
 
 def generate_projects(schools_df):
     project_data = []
+
     for i, row in schools_df.iterrows():
         nces_id = row['nces_id']
         project_count = row['project_count']
 
         for j in range(project_count):
             project_id = fake.unique.random_int(min=10000000, max=99999999)
+
+            # Generate a random start date
             project_start_date = fake.date_between_dates(date_start=datetime(2023, 1, 1),
-                                                         date_end=datetime(2023, 12, 11))
+                                                         date_end=datetime(2023, 2, 1))
             project_end_date = project_start_date + timedelta(weeks=random.randint(7, 13))
 
-            # Blank list to store milestone data
-            milestones_data = []
-            for milestone in range(1,6):
-                due_date = fake.date_between_dates(date_start=project_start_date, date_end=project_end_date)
-                completed_date = due_date + timedelta(days=random.randint(-3, 3))
+            # Generate five dates
+            milestone_dates = [project_start_date]
+            for milestone in range(4):
+                new_date = milestone_dates[-1] + timedelta(days=random.randint(1,30))
+                milestone_dates.append(new_date)
 
-                milestones_data.append({
-                    f"milestone_{milestone}_due_date" : due_date,
-                    f"milestone_{milestone}_completed_date": completed_date
-                })
+            # Sort dates in order
+            milestone_dates.sort()
 
-            project_data.append({'nces_id':nces_id,
+            # Make sure date5 is before project_end_date
+            while milestone_dates[-1] >= project_end_date:
+                milestone_dates[-1] = milestone_dates[-1] - timedelta(days=random.randint(1,30))
+
+            # Assign dates to variables
+            date_1, date_2, date_3, date_4, date_5 = milestone_dates
+
+            # print("Date 1:", date_1.strftime("%Y-%m-%d"))
+            # print("Date 2:", date_2.strftime("%Y-%m-%d"))
+            # print("Date 3:", date_3.strftime("%Y-%m-%d"))
+            # print("Date 4:", date_4.strftime("%Y-%m-%d"))
+            # print("Date 5:", date_5.strftime("%Y-%m-%d"))
+
+            project_type = random.choices(list(project_types.keys()), weights=list(project_types.values()), k=1)[0]
+
+            project_data.append({'nces_id': nces_id,
                                  'project_id': project_id,
+                                 'project_type': project_type,
                                  'project_start_date': project_start_date,
                                  'project_end_date': project_end_date,
-                                 'milestones': milestones_data
+                                 'milestone1': date_1,
+                                 'milestone2': date_2,
+                                 'milestone3': date_3,
+                                 'milestone4': date_4,
+                                 'milestone5': date_5
                                  })
-    project_df = pd.DataFrame(project_data)
 
-    project_df = project_df.explode('milestones').reset_index(drop=True)
-    project_df = project_df.join(project_df['milestones'].apply(pd.Series))
-    project_df.drop(columns='milestones', inplace=True)
+    project_data = pd.DataFrame(project_data)
 
-    return project_df
+    try:
+        project_data.to_csv('data/Projects.csv', index=False)
+        print("Dataset generated and saved as 'data/Projects.csv'")
+    except PermissionError:
+        print("PermissionError: Dataset not saved! Do you have Projects.csv open or lack permission to write?")
+    except Exception as e:
+        print(f"An error occurred: {e}")
 
-    # print(project_data)
-
-project_df = generate_projects(schools_df)
-project_df.to_csv('../data/project_df.csv', index=False)
+    return project_data

@@ -1,501 +1,501 @@
-,district,type,state,nces_id,team_name
-0,Toms River Regional School District,Regular school,NJ,341623004744,3
-1,Norfolk Public Schools,Regular school,NE,317443001307,1
-2,Shelby Eastern Schools,Regular school,IN,180321000417,4
-3,Rutherford County,Regular school,TN,470369002253,3
-4,West Iron County Public Schools,Regular school,MI,263291000148,1
-5,Bonsall Unified,Regular school,CA,60142600516,3
-6,San Francisco Unified,Regular school,CA,63441013548,2
-7,Pawtucket,Regular school,RI,440084000466,4
-8,San Bernardino City Unified,Regular school,CA,63417005364,1
-9,Wonewoc-Union Center School District,Regular school,WI,551713002224,3
-10,Lamar County School District,Regular school,MS,280240001314,2
-11,Lakeland District,Alternative Education School,ID,160180000437,5
-12,Plano Isd,Regular school,TX,483510007222,1
-13,Helena/ W.Helena School Dist.,Regular school,AR,50768001637,1
-14,Dedham,Regular school,MA,250405000551,4
-15,Cedar Rapids Comm School District,Regular school,IA,190654000248,3
-16,Tigard-Tualatin Sd 23J,Regular school,OR,411224001299,1
-17,Socorro Consolidated Schools,Regular school,NM,350246000789,2
-18,Bay City School District,Regular school,MI,260426004100,3
-19,Laramie County School District #1,Regular school,WY,560198000396,2
-20,Baden Academy Cs,Regular school,PA,420086107428,4
-21,Temple Isd,Regular school,TX,484233007787,6
-22,Chetopa-St. Paul,Regular school,KS,200477001493,4
-23,Nw Suburban Spec Educ Org,Special education school,IL,170003206204,3
-24,Yazoo City Municipal School Dist,Alternative Education School,MS,280477001261,1
-25,Torrance Unified,Regular school,CA,63942006566,3
-26,Bullitt County,Regular school,KY,210075000145,3
-27,Amphitheater Unified District (4406),Regular school,AZ,40068000033,1
-28,Webster Groves,Regular school,MO,293153002194,6
-29,New York City Geographic District #21,Regular school,NY,360015202734,1
-30,Roscommon Area Public Schools,Regular school,MI,261583005231,1
-31,Chino Valley Unified,Alternative Education School,CA,60846010607,4
-32,Madison Consolidated Schools,Regular school,IN,180612001085,1
-33,South San Antonio Isd,Regular school,TX,484068004608,1
-34,Texas College Preparatory Academies,Regular school,TX,480016313327,6
-35,Parkway C-2,Regular school,MO,292358001386,3
-36,John Glenn School Corporation,Regular school,IN,180912001505,4
-37,Seaman,Regular school,KS,201149001953,2
-38,Eagle Butte School District 20-1,Alternative Education School,SD,462010001233,5
-39,Dryden Central School District,Regular school,NY,360933004683,3
-40,Clay,Regular school,FL,120030007558,4
-41,Medford Sd 549C,Regular school,OR,410804000438,2
-42,Banks County,Regular school,GA,130024002015,2
-43,Rsu 51/Msad 51,Regular school,ME,231424000682,1
-44,Hillsborough,Regular school,FL,120087000967,4
-45,Boston,Regular school,MA,250279000291,5
-46,Downtown College Preparatory Middle District,Regular school,CA,60225113738,5
-47,Pharr-San Juan-Alamo Isd,Regular school,TX,483486006598,5
-48,Little Elm Isd,Alternative Education School,TX,482772008202,4
-49,Msad 27,Regular school,ME,231110000406,1
-50,Garvey Elementary,Regular school,CA,61494014288,4
-51,Augusta Co Pblc Schs,Regular school,VA,510030001830,4
-52,Cleveland Municipal,Regular school,OH,390437800557,2
-53,Richmond City Pblc Schs,Regular school,VA,510324001379,3
-54,New York City Geographic District #17,Regular school,NY,360009500799,5
-55,East Orange School District,Regular school,NJ,340423000494,1
-56,Manhattan-Ogden,Regular school,KS,200918000853,1
-57,Leon,Regular school,FL,120111001177,2
-58,Knox County,Regular school,TN,470222000788,3
-59,Charleston 01,Regular school,SC,450144000216,3
-60,Carpinteria Unified,Regular school,CA,60756000725,1
-61,Chesterfield Co Pblc Schs,Regular school,VA,510084003066,4
-62,Glendale Unified,Regular school,CA,61524001940,2
-63,Shelton School District,Regular school,CT,90405000806,4
-64,Gordon County,Regular school,GA,130243002175,5
-65,Big Horn County School District #1,Regular school,WY,560142000478,2
-66,Durant Comm School District,Regular school,IA,190960000629,5
-67,Klein Isd,Regular school,TX,482574012662,2
-68,Akron City,Regular school,OH,390434800052,1
-69,Quincy School District,Regular school,WA,530708001056,5
-70,Hueneme Elementary,Regular school,CA,61785002198,2
-71,Lyon County School District,Regular school,NV,320030000311,4
-72,Grady Municipal Schools,Regular school,NM,350114000326,5
-73,Clarkston School District,Alternative Education School,WA,530132000990,1
-74,Shippensburg Area Sd,Regular school,PA,422157001724,4
-75,Brownwood Isd,Regular school,TX,481170000672,2
-76,Wachusett,Regular school,MA,251188001280,1
-77,Houston Isd,Regular school,TX,482364008614,2
-78,Mobile County,Regular school,AL,10237000938,4
-79,Central Heights Isd,Regular school,TX,481344012666,1
-80,Painted Desert Montessori Llc (123733),Regular school,AZ,40094903520,2
-81,New London School District,Regular school,CT,90282000594,5
-82,Clay County,Regular school,AL,10075002205,1
-83,Grand Prairie Isd,Regular school,TX,482142002151,1
-84,Holmes Co Consolidated School Dist,Regular school,MS,280019501488,2
-85,Elkton-Pigeon-Bay Port Laker Schools,Regular school,MI,261309005008,1
-86,Waterford Unified,Regular school,CA,60006312224,1
-87,Caldwell County Schools,Regular school,NC,370058000222,2
-88,Hartford School District,Regular school,CT,90192000376,2
-89,Northeast Metro 916,Special education school,MN,270226403259,2
-90,College Corner Local,Regular school,OH,390649604125,1
-91,Hawaii Department Of Education,Regular school,HI,150003000143,5
-92,Pawhuska,Regular school,OK,402358001251,2
-93,Delta-Greely School District,Regular school,AK,20010000599,4
-94,Commission Charter Schools- Cirrus Charter Academy,Regular school,GA,130023904226,6
-95,Clover Park School District,Regular school,WA,530141003549,1
-96,Winthrop Public Schools,Regular school,ME,231397000641,5
-97,De Smet School District 38-2,Regular school,SD,461785000993,3
-98,University Prep Charter Middle School,Regular school,NY,360119706707,2
-99,Township Hsd 214,Regular school,IL,170417000115,6
-100,Roane County,Regular school,TN,470359001481,1
-101,Eagle County School District No. Re 50,Regular school,CO,80354001531,2
-102,Harrison County Schools,Regular school,WV,540051000313,5
-103,White Bear Lake School District,Regular school,MN,274236002191,5
-104,Rich District,Special education school,UT,490084001264,3
-105,Roane County,Regular school,TN,470359001479,4
-106,Hurley School District,Regular school,WI,550675000733,4
-107,Collinsville Cusd 10,Regular school,IL,171065001282,5
-108,Gordon County,Regular school,GA,130243002081,2
-109,Roselle Park Public School District,Regular school,NJ,341431005666,1
-110,West Fargo 6,Regular school,ND,381941000902,2
-111,Osage Comm School District,Regular school,IA,192184001303,2
-112,Red Oak Isd,Regular school,TX,483666004106,3
-113,Robstown Isd,Regular school,TX,483744004201,4
-114,Kenai Peninsula Borough School District,Alternative Education School,AK,20039000081,4
-115,Federal Way School District,Special education school,WA,530282003124,5
-116,Baldwyn School District,Regular school,MS,280054000042,5
-117,Puerto Rico Department Of Education,Special education school,PR,720003001941,6
-118,Earle School District,Regular school,AR,50555000264,3
-119,Plainville School District,Regular school,CT,90330000699,5
-120,Fairview Public School District,Regular school,NJ,340507000438,3
-121,Division Of Youth Service,Regular school,MO,290000901199,3
-122,Assumption Parish,Regular school,LA,220012000052,1
-123,Garden Grove Unified,Regular school,CA,61488001844,2
-124,Dennis-Yarmouth,Regular school,MA,250414000561,5
-125,Southwest Isd,Regular school,TX,484095004655,1
-126,Poway Unified,Regular school,CA,63153004899,1
-127,San Francisco Unified,Regular school,CA,63441005618,1
-128,Indianapolis Public Schools,Regular school,IN,180477002630,2
-129,Puerto Rico Department Of Education,Regular school,PR,720003001865,2
-130,Apple Valley Unified,Regular school,CA,60001708297,5
-131,Minneapolis School Of New Music,Regular school,MN,270046105257,1
-132,Carroll Isd,Regular school,TX,481302009393,6
-133,Lamoille South Unified Union School District #90,Regular school,VT,500044800318,2
-134,Palm Beach,Regular school,FL,120150001486,5
-135,Broward,Special education school,FL,120018003310,2
-136,Central Valley Sd,Regular school,PA,420082407319,4
-137,Philadelphia City Sd,Regular school,PA,421899003765,1
-138,Ser-Ninos Charter School,Regular school,TX,480001807302,6
-139,Johnston Comm School District,Regular school,IA,191545000532,1
-140,Rsu 35/Msad 35,Regular school,ME,231137000491,1
-141,St Mary'S Academy Charter School,Regular school,TX,480017708427,6
-142,Columbia (Walla Walla) School District,Regular school,WA,530159000279,1
-143,Grand Valley Local,Regular school,OH,390458602366,1
-144,Jennings County School Corporation,Regular school,IN,180519000923,1
-145,Midlothian Isd,Regular school,TX,483060006303,5
-146,Weber District,Alternative Education School,UT,490120001548,3
-147,Jefferson County School District No. R-1,Regular school,CO,80480006723,1
-148,Clover Park School District,Regular school,WA,530141003402,2
-149,Blackford County Schools,Regular school,IN,180057000126,1
-150,Department Of Juvenile Justice,Special education school,GA,130002604194,6
-151,Rolla 31,Regular school,MO,292689001631,2
-152,New York City Geographic District #15,Regular school,NY,360009201377,1
-153,Kennewick School District,Regular school,WA,530393003330,2
-154,Royse City Isd,Regular school,TX,483822012115,3
-155,Elizabeth Public Schools,Regular school,NJ,340459005492,6
-156,Dover City,Regular school,OH,390438900857,4
-157,Fredericksburg Isd,Regular school,TX,481984001942,4
-158,Edmond,Regular school,OK,401059000481,1
-159,Okaloosa,Regular school,FL,120138001334,1
-160,Pentucket,Regular school,MA,250945001512,3
-161,Ohio County,Regular school,KY,210450001120,5
-162,Pleasant Valley,Regular school,CA,63099004796,3
-163,Wayne County Public Schools,Regular school,NC,370488001954,5
-164,Edkey Inc. Dba American Heritage Academy  (6365),Regular school,AZ,40013002569,2
-165,Fairfax Co Pblc Schs,Regular school,VA,510126000483,6
-166,Klein Isd,Regular school,TX,482574008631,1
-167,Jefferson County,Regular school,KY,210299000786,3
-168,Fairfax Co Pblc Schs,Regular school,VA,510126000503,5
-169,Perry Public Schools,Regular school,KS,201062000675,1
-170,Birmingham City,Alternative Education School,AL,10039001761,4
-171,Redlands Unified,Regular school,CA,63207007274,1
-172,Mustang,Regular school,OK,402100002786,4
-173,Kern High,Regular school,CA,61954012132,4
-174,Ocean View,Regular school,CA,62814004333,4
-175,Shelby County,Regular school,KY,210532001292,3
-176,Desert Sands Unified,Regular school,CA,61111001226,1
-177,Pomerene Elementary District (4188),Regular school,AZ,40663000562,3
-178,Lee County Schools,Regular school,NC,370256002868,3
-179,Oro Grande,Regular school,CA,62895004480,1
-180,Frisco Isd,Regular school,TX,482001011170,3
-181,Jefferson Parish,Regular school,LA,220084000579,1
-182,Forest Hills Public Schools,Regular school,MI,261461001661,2
-183,Guilford County Schools,Regular school,NC,370192003233,2
-184,Puerto Rico Department Of Education,Regular school,PR,720003001439,2
-185,Cheylin,Regular school,KS,200479000482,2
-186,Ferris Isd,Regular school,TX,481917001787,5
-187,Lake,Regular school,FL,120105001095,2
-188,Detroit Public Schools Community District,Regular school,MI,260110301423,1
-189,Wichita Falls Isd,Regular school,TX,484578005216,1
-190,Granite District,Regular school,UT,490036000852,2
-191,Garnet Valley Sd,Regular school,PA,421059001869,3
-192,Cambridge,Regular school,MA,250327000020,3
-193,Ridley Sd,Regular school,PA,422037005043,5
-194,Lawrence Union Free School District,Regular school,NY,361683001504,4
-195,Lake Villa Ccsd 41,Regular school,IL,172187003657,2
-196,Nevada Joint Union High,Alternative Education School,CA,62688010261,4
-197,Yuba City Unified,Regular school,CA,64347007029,3
-198,New Hanover County Schools,Alternative Education School,NC,370333003138,1
-199,Summit Academy Community School-Columbus,Regular school,OH,390049205202,1
-200,Pleasanton Public Schools,Regular school,NE,317569001526,6
-201,Cambridge City,Regular school,OH,390436904198,1
-202,Mahopac Central School District,Regular school,NY,361812001624,2
-203,East Stroudsburg Area Sd,Regular school,PA,420867006798,4
-204,Haas Hall Academy,Regular school,AR,50007801640,3
-205,Norwalk-La Mirada Unified,Regular school,CA,62769004170,3
-206,Sierra Unified,Regular school,CA,63680512884,2
-207,Alachua,Regular school,FL,120003007696,2
-208,Nye County School District,Regular school,NV,320036000752,1
-209,Gunnison Watershed School District Re1J,Regular school,CO,80447001600,2
-210,Irvine Unified,Regular school,CA,68450007376,2
-211,New York City Geographic District # 3,Regular school,NY,360007805524,1
-212,Wasatch District,Regular school,UT,490111001533,1
-213,Randolph County School System,Regular school,NC,370378000905,3
-214,Bridgeport School District,Regular school,CT,90045000066,5
-215,Orange,Regular school,MA,250918002593,3
-216,Channahon Sd 17,Regular school,IL,170954001556,2
-217,Gurnee Sd 56,Regular school,IL,171780002074,1
-218,Desoto Isd,Regular school,TX,481686006396,1
-219,Gans,Regular school,OK,401239000581,2
-220,Hillsborough,Regular school,FL,120087002508,3
-221,Streetsboro City,Regular school,OH,390492303537,1
-222,Evanston Ccsd 65,Regular school,IL,171446001788,2
-223,Kentwood Public Schools,Regular school,MI,262034001874,4
-224,Oakland Sd 1,Regular school,OR,410912000287,2
-225,Seekonk,Regular school,MA,251059001700,1
-226,Washington Unified,Regular school,CA,64158006857,1
-227,Zanesville City,Regular school,OH,390451705123,2
-228,Aldine Isd,Regular school,TX,480771021292,1
-229,Salida School District No. R-32,Regular school,CO,80633001108,3
-230,Los Angeles Unified,Regular school,CA,62271003075,2
-231,Matanuska-Susitna Borough School District,Regular school,AK,20051000741,3
-232,Peaster Isd,Regular school,TX,483450007083,2
-233,Mineral Springs School Dist.,Regular school,AR,50978000717,6
-234,Escalon Unified,Regular school,CA,61284001450,3
-235,Life School,Regular school,TX,480005513849,2
-236,St. Martin Parish,Regular school,LA,220159001221,2
-237,Clear Lake Comm School District,Regular school,IA,190762000363,1
-238,East Williston Union Free School District,Regular school,NY,361005000781,1
-239,Puerto Rico Department Of Education,Regular school,PR,720003001084,4
-240,Selinsgrove Area Sd,Regular school,PA,422112006817,1
-241,Spring Hill,Regular school,KS,201185001852,4
-242,New York City Geographic District #21,Regular school,NY,360015202367,6
-243,Newport-Mesa Unified,Regular school,CA,62724004104,4
-244,West Central Valley Comm School District,Regular school,IA,192750001607,1
-245,Fort Sumner Municipal Schools,Regular school,NM,350105000296,4
-246,Matanuska-Susitna Borough School District,Regular school,AK,20051000443,1
-247,Cohoes City School District,Regular school,NY,360798004584,3
-248,Rsu 60/Msad 60,Regular school,ME,231470000783,4
-249,Union,Regular school,OK,403060001911,3
-250,Durand Area Schools,Regular school,MI,261233004936,6
-251,Grand Valley Local,Regular school,OH,390458605126,5
-252,Judson Isd,Regular school,TX,482499012976,1
-253,Palm Beach,Regular school,FL,120150008594,2
-254,Willis Isd,Regular school,TX,484590008340,1
-255,Jordan District,Regular school,UT,490042001338,4
-256,Crystal City Isd,Regular school,TX,481593013378,1
-257,Puerto Rico Department Of Education,Regular school,PR,720003000676,1
-258,Long County,Regular school,GA,130336001371,1
-259,Antioch Ccsd 34,Regular school,IL,170384000072,1
-260,Westonka Public School District,Special education school,MN,272292002992,6
-261,Olathe,Regular school,KS,201014001676,3
-262,Los Alamitos Unified,Regular school,CA,62259000794,4
-263,Norton City Pblc Schs,Regular school,VA,510276001162,1
-264,New Philadelphia City,Regular school,OH,390444805903,1
-265,Fort Worth Isd,Regular school,TX,481970001874,1
-266,Madera Unified,Regular school,CA,62334003551,2
-267,Flagler,Regular school,FL,120054008695,2
-268,Francis Howell R-Iii,Regular school,MO,292895001884,6
-269,Capistrano Unified,Alternative Education School,CA,60744000703,1
-270,Los Angeles Unified,Regular school,CA,62271003008,5
-271,Roanoke Co Pblc Schs,Regular school,VA,510333001998,1
-272,Keystone Oaks Sd,Regular school,PA,421275000203,1
-273,Harrisburg School District 41-2,Regular school,SD,463135000847,2
-274,Frisco Isd,Regular school,TX,482001010500,3
-275,Hawaii Department Of Education,Regular school,HI,150003000247,4
-276,Anaheim Union High,Regular school,CA,60263000188,1
-277,Madison County,Regular school,TN,470258000085,4
-278,San Marcos Unified,Regular school,CA,63488005889,6
-279,Schaumburg Ccsd 54,Regular school,IL,173474003652,1
-280,Riverside Unified,Regular school,CA,63315005137,1
-281,Toledo School District,Regular school,WA,530891001526,3
-282,Moreno Valley Unified,Regular school,CA,62580003870,2
-283,Joint School District No. 2,Alternative Education School,ID,160210001025,3
-284,Vernon Parish,Regular school,LA,220183001416,3
-285,New York City Geographic District #26,Regular school,NY,360009901917,4
-286,Lee,Regular school,FL,120108001144,2
-287,Goliad Isd,Regular school,TX,482103002096,5
-288,Boston Collegiate Charter (District),Regular school,MA,250005301256,1
-289,Wythe Co Pblc Schs,Regular school,VA,510411001799,3
-290,Central Kitsap School District,Regular school,WA,530108000180,2
-291,Calexico Unified,Regular school,CA,60690000640,3
-292,Waukesha School District,Regular school,WI,551578002019,1
-293,Fremont Unified,Regular school,CA,61440001690,6
-294,Rome City School District,Regular school,NY,362490003448,1
-295,Department Of Corrections,Alternative Education School,MO,290003003133,4
-296,Richmond City Pblc Schs,Regular school,VA,510324002070,3
-297,Harlandale Isd,Regular school,TX,482247002255,1
-298,Amarillo Isd,Regular school,TX,480813000159,1
-299,Bolivar R-I,Regular school,MO,290537000090,1
-300,Montgomery County Public Schools,Regular school,MD,240048000934,3
-301,Valparaiso Community Schools,Regular school,IN,181197001891,1
-302,Sheridan Sd 48J,Regular school,OR,411122001803,2
-303,Central Wake Charter High School,Alternative Education School,NC,370040603403,4
-304,Hazelwood,Regular school,MO,291383000630,2
-305,St. Charles Parish,Regular school,LA,220144001144,1
-306,Kalamazoo Resa,Special education school,MI,268060002030,1
-307,Newfield Central School District,Regular school,NY,362079002924,1
-308,Miami-Dade,Alternative Education School,FL,120039003569,5
-309,Kennewick School District,Regular school,WA,530393003330,1
-310,Global Academy,Regular school,MN,270031304294,1
-311,Byron Public School District,Regular school,MN,270735000307,1
-312,Corvallis Sd 509J,Regular school,OR,410348000044,4
-313,Scott Co. R-Iv,Regular school,MO,290489000059,3
-314,Woodbridge Township School District,Regular school,NJ,341812003452,4
-315,Washington Unified,Regular school,CA,64158010715,1
-316,Geneva County,Regular school,AL,10166000570,1
-317,Hood River County Sd,Regular school,OR,410651000386,1
-318,Tomorrow River School District,Regular school,WI,550033000033,1
-319,Prairiland Isd,Regular school,TX,483574004047,1
-320,Boulder Valley School District No. Re2,Regular school,CO,80249001632,1
-321,Roseville City Elementary,Regular school,CA,63360003508,1
-322,Mesquite Isd,Regular school,TX,483039003421,4
-323,Vigo County School Corp,Regular school,IN,181209001911,3
-324,Hamilton County,Regular school,TN,470159000389,4
-325,Rsu 60/Msad 60,Regular school,ME,231470000783,5
-326,Lake,Regular school,FL,120105001714,2
-327,May-Port Cg 14,Regular school,ND,380004100406,2
-328,San Jacinto Unified,Regular school,CA,63444005694,1
-329,Watertown,Regular school,MA,251218002002,2
-330,Berkeley Township School District,Regular school,NJ,340156004578,1
-331,New Buffalo Area Schools,Regular school,MI,262514006181,3
-332,Hawaii Department Of Education,Regular school,HI,150003000023,2
-333,Newcomerstown Exempted Village,Regular school,OH,390455402270,3
-334,Hurst-Euless-Bedford Isd,Alternative Education School,TX,482406008043,5
-335,Muscogee County,Regular school,GA,130387004146,4
-336,Gasconade Co. R-I,Regular school,MO,291428002464,3
-337,Beaver Dam Unified School District,Regular school,WI,550096000122,1
-338,Santa Rosa,Special education school,FL,120165007740,1
-339,San Benito Cisd,Regular school,TX,483879005919,3
-340,Pell City,Regular school,AL,10265001569,5
-341,Auburn Public Schools,Regular school,NE,310333002237,3
-342,Spring Branch Isd,Regular school,TX,484110004694,1
-343,Dassel-Cokato Public School Dist.,Alternative Education School,MN,271006002658,4
-344,Lodi Unified,Alternative Education School,CA,62223012737,4
-345,Cherry Creek School District No. 5 In The County Of Arapah,Regular school,CO,80291001330,3
-346,Seminole,Regular school,FL,120171001892,4
-347,Portland Public Schools,Regular school,ME,230993000603,1
-348,Chaplin School District,Regular school,CT,90072000121,2
-349,Thompson School District R-2J,Regular school,CO,80540001786,2
-350,Stella Middle Charter Academy District,Regular school,CA,60188911361,1
-351,Houston Isd,Regular school,TX,482364008614,6
-352,Floyd County,Regular school,GA,130219000882,2
-353,Utica Community Schools,Regular school,MI,263447000927,4
-354,Gull Lake Community Schools,Regular school,MI,261725005408,6
-355,Tacoma School District,Regular school,WA,530870001455,2
-356,Greater Clark County Schools,Regular school,IN,180394000667,2
-357,Wilson County,Regular school,TN,470455010415,1
-358,Franklin County Schools,Regular school,NC,370153000574,1
-359,School City Of Hobart,Regular school,IN,180459000774,1
-360,Charlotte Choice Charter,Regular school,NC,370033903293,2
-361,Allegany County Public Schools,Regular school,MD,240003001636,2
-362,Boothbay-Boothbay Hbr Csd,Regular school,ME,230329000080,3
-363,Scott County,Regular school,TN,470372001533,2
-364,Puerto Rico Department Of Education,Regular school,PR,720003001490,4
-365,Agawam,Regular school,MA,250180000030,1
-366,Los Angeles Unified,Special education school,CA,62271003110,1
-367,Harmony Union Elementary,Regular school,CA,61662002091,1
-368,Harford County Public Schools,Regular school,MD,240039001638,1
-369,Crestline Exempted Village,Regular school,OH,391000804482,4
-370,Northville Public Schools,Regular school,MI,262598006245,5
-371,Westside Union Elementary,Regular school,CA,64212010911,4
-372,Kodiak Island Borough School District,Regular school,AK,20048000189,1
-373,Alamance-Burlington Schools,Regular school,NC,370003000014,5
-374,Miami-Dade,Regular school,FL,120039003555,2
-375,Central Point Sd 6,Regular school,OR,410294001728,1
-376,Prince George'S County Public Schools,Regular school,MD,240051001089,2
-377,Charter Oak-Ute Comm School District,Regular school,IA,190711000327,3
-378,Caliber: Beta Academy District,Regular school,CA,60172613746,2
-379,Clinton-Massie Local,Regular school,OH,390463902540,2
-380,Houston Isd,Regular school,TX,482364002391,1
-381,St. Paul Public School District,Alternative Education School,MN,273384004858,1
-382,Brunswick City,Regular school,OH,390436604196,1
-383,Mcallen Isd,Regular school,TX,482967003339,1
-384,Enterprise City,Regular school,AL,10132000475,5
-385,Plainville School District,Regular school,CT,90330000701,2
-386,Davis Joint Unified,Regular school,CA,61062001175,1
-387,Lexington 01,Regular school,SC,450270001626,3
-388,Dekalb County,Regular school,GA,130174001998,4
-389,Ysleta Isd,Regular school,TX,484668005321,4
-390,Fort Sage Unified,Regular school,CA,60001109068,1
-391,Hazlet Township Public School District,Regular school,NJ,341368003838,1
-392,Hanover Co Pblc Schs,Regular school,VA,510183000769,2
-393,Houston Isd,Regular school,TX,482364002544,1
-394,Cobb County,Regular school,GA,130129002475,5
-395,Mentor Exempted Village,Regular school,OH,390454902238,1
-396,Broward,Special education school,FL,120018000221,6
-397,Fresno Unified,Regular school,CA,61455001761,3
-398,Rich Hill R-Iv,Regular school,MO,292631001545,1
-399,Passaic City School District,Regular school,NJ,341254000347,6
-400,El Centro Elementary,Regular school,CA,61203009797,1
-401,Harrisville School District,Regular school,NH,330363000156,4
-402,Tri-Central Community Schools,Regular school,IN,180804002227,2
-403,George Gervin Youth Center Inc. (90884),Regular school,AZ,40087603352,2
-404,Southern Berkshire,Regular school,MA,251104001778,2
-405,Michigan Department Of Community Health,Special education school,MI,260096008126,2
-406,Adams 12 Five Star Schools,Regular school,CO,80690001184,1
-407,Fremont Public Schools,Regular school,NE,317071000981,1
-408,Edinburg Cisd,Regular school,TX,481818009538,3
-409,East Meadow Union Free School District,Regular school,NY,360984000762,4
-410,Racine Unified School District,Regular school,WI,551236001635,1
-411,Olathe,Regular school,KS,201014002102,1
-412,Hall County,Regular school,GA,130261001168,4
-413,Calcasieu Parish,Regular school,LA,220033000256,5
-414,Wayne Comm School District,Regular school,IA,193056001755,2
-415,Urbana Sd 116,Regular school,IL,173996004013,4
-416,Bedford Central School District,Regular school,NY,361995001823,1
-417,Pinnacle Education-Casa Grande Inc. (81011),Alternative Education School,AZ,40062601886,1
-418,City Of Chicago Sd 299,Regular school,IL,170993000605,4
-419,Parkston School District 33-3,Regular school,SD,465430001395,5
-420,Swain County Schools,Regular school,NC,370444001763,3
-421,Chappaqua Central School District,Regular school,NY,360699000487,3
-422,Trinity Academy For The Performing Arts,Regular school,RI,440001800478,5
-423,Brilla Veritas Charter School,Regular school,NY,360116506617,2
-424,Lowell,Regular school,MA,250702000073,2
-425,Colfax Township S/D #1F,Regular school,MI,261023004513,2
-426,Hawaii Department Of Education,Regular school,HI,150003000077,4
-427,Bristol Bay Borough School District,Regular school,AK,20003000751,2
-428,West End School District No. Re-2,Regular school,CO,80585001007,6
-429,Zuni Public Schools,Regular school,NM,350280000676,5
-430,Death Valley Unified,Alternative Education School,CA,61068007981,6
-431,Delaware Valley Sd,Regular school,PA,420753003865,1
-432,Owensboro Independent,Career and Technical School,KY,210459002184,2
-433,Collinsville Cusd 10,Regular school,IL,171065001289,5
-434,Scappoose Sd 1J,Regular school,OR,411098000170,2
-435,Fargo 1,Regular school,ND,380678000193,1
-436,Mountain Grove R-Iii,Career and Technical School,MO,292151001183,2
-437,Boyd County,Regular school,KY,210062000109,5
-438,Pike County,Regular school,KY,210480001948,2
-439,West-Mec - Western Maricopa Education Center (80923),Career and Technical School,AZ,40061502512,6
-440,Beaufort 01,Regular school,SC,450111001538,4
-441,Moline-Coal Valley Cusd 40,Regular school,IL,172640002805,3
-442,New York City Geographic District #12,Regular school,NY,360009002373,1
-443,Canyon Creek Elem,Regular school,MT,300546000160,6
-444,Delton Kellogg Schools,Regular school,MI,261191004631,1
-445,Barstow Unified,Regular school,CA,60402000357,6
-446,Creative Technologies Academy,Regular school,MI,260020701134,2
-447,Perkins County Schools,Regular school,NE,310015701827,1
-448,Galt Joint Union High,Regular school,CA,61482012403,5
-449,Knox County,Regular school,TN,470222000758,1
-450,New York City Geographic District #17,Regular school,NY,360009505820,5
-451,Sumter 01,Regular school,SC,450390201060,1
-452,Dallas Isd,Regular school,TX,481623007572,1
-453,Cherokee County Schools,Regular school,NC,370078000323,5
-454,Mesa Unified District (4235),Regular school,AZ,40497001305,6
-455,Waterbury School District,Regular school,CT,90483000990,1
-456,Montgomery County Public Schools,Regular school,MD,240048009000,4
-457,Arlington Heights Sd 25,Regular school,IL,170414000098,1
-458,Rockingham Co Pblc Schs,Regular school,VA,510339001503,3
-459,Rsu 54/Msad 54,Career and Technical School,ME,231459000185,2
-460,Rio Bravo-Greeley Union Elementary,Regular school,CA,63271005085,1
-461,Pueblo County School District 70,Regular school,CO,80615001079,1
-462,Burlington-Edison School District,Alternative Education School,WA,530078003103,3
-463,Mound Street Academies,Regular school,OH,390018504709,3
-464,Iredell-Statesville Schools,Regular school,NC,370231002299,6
-465,River Valley School District,Regular school,WI,551425003062,3
-466,Francis Howell R-Iii,Regular school,MO,292895002698,5
-467,Columbiana County,Career and Technical School,OH,390509004057,2
-468,Spokane School District,Regular school,WA,530825001386,3
-469,Davidson County,Regular school,TN,470318001297,3
-470,Thurgood Marshall Academy Pcs,Regular school,DC,110003400249,1
-471,Churchill County School District,Regular school,NV,320003000001,4
-472,Murray District,Regular school,UT,490060000376,1
-473,Diamond Lake Sd 76,Regular school,IL,171221001475,1
-474,Baltimore County Public Schools,Regular school,MD,240012000452,1
-475,Manhattan Beach Unified,Regular school,CA,60002507535,6
-476,Campbell County,Alternative Education School,TN,470042002416,4
-477,Huber Heights City,Regular school,OH,390487503393,4
-478,Sitka School District,Regular school,AK,20024000142,1
-479,Boys Ranch Isd,Regular school,TX,481104000570,1
-480,Denton Isd,Regular school,TX,481674006394,1
-481,Monmouth County Vocational School District,Career and Technical School,NJ,341750003219,1
-482,Davis District,Regular school,UT,490021001511,1
-483,Opportunities For Learning - Duarte District,Regular school,CA,60182513697,1
-484,Greenville Isd,Regular school,TX,482172013582,2
-485,Lubbock-Cooper Isd,Regular school,TX,481518012535,2
-486,Fieldcrest Cusd 6,Regular school,IL,171510000013,1
-487,Upper Saddle River School District,Regular school,NJ,341662000880,2
-488,Buckeye United School District,Regular school,OH,390023704676,4
-489,Colton Joint Unified,Regular school,CA,60939000959,1
-490,Creative Minds International Pcs,Regular school,DC,110008400440,1
-491,Columbus Charter School,Regular school,NC,370014002923,3
-492,Nicholas County Schools,Regular school,WV,540102000828,2
-493,Ferguson-Florissant R-Ii,Regular school,MO,291201000455,4
-494,Lodi Unified,Alternative Education School,CA,62223012737,2
-495,Polk,Regular school,FL,120159001783,3
-496,Issaquah School District,Regular school,WA,530375003588,1
-497,St. Cloud Public School District,Alternative Education School,MN,273351003368,3
-498,Jackson County,Regular school,TN,470207000665,2
-499,Blue Springs R-Iv,Regular school,MO,290531002736,3
+,district,type,state,nces_id,team_name,project_count
+0,Grapevine-Colleyville Isd,Alternative Education School,TX,482166008034,Odyssey,2
+1,Colbert,Regular school,OK,400822000342,Endeavor,3
+2,Orcutt Union Elementary,Regular school,CA,62871004463,Apex,1
+3,South Bay Union,Regular school,CA,63738006325,Apex,1
+4,Greenville Public Schools,Regular school,MS,280162000237,Apex,1
+5,Carter County,Regular school,TN,470051000152,Apex,1
+6,Puerto Rico Department Of Education,Regular school,PR,720003001818,Luminary,1
+7,Windham School District,Regular school,CT,90519001084,Luminary,1
+8,St. Louis City,Regular school,MO,292928002875,Odyssey,3
+9,Galena Park Isd,Regular school,TX,482025001982,Apex,2
+10,Duluth Public School District,Regular school,MN,271104000489,Genesis,1
+11,Somerset County Educational Services Commission,Special education school,NJ,348028003292,Luminary,1
+12,Polk,Regular school,FL,120159002894,Apex,2
+13,Sheldon Isd,Alternative Education School,TX,483999010797,Odyssey,3
+14,Henderson County Schools,Regular school,NC,370210000804,Luminary,2
+15,Godley Isd,Regular school,TX,482096002089,Endeavor,1
+16,Crown Point Community School Corp,Regular school,IN,180249000300,Apex,1
+17,Marysville School District,Regular school,WA,530486000738,Horizon,2
+18,Katy Isd,Regular school,TX,482517010763,Endeavor,2
+19,Spotsylvania Co Pblc Schs,Regular school,VA,510364002462,Horizon,1
+20,United South Central School Dist.,Regular school,MN,270000501770,Genesis,2
+21,Wynnewood,Regular school,OK,403330001834,Luminary,2
+22,Pajaro Valley Unified,Regular school,CA,62949006662,Endeavor,1
+23,Coulee-Hartline School District,Regular school,WA,530344001771,Luminary,3
+24,White Pine County School District,Regular school,NV,320051000267,Endeavor,2
+25,Springfield R-Xii,Regular school,MO,292886001828,Odyssey,3
+26,Granite District,Regular school,UT,490036000200,Luminary,3
+27,Ipswich,Regular school,MA,250648000939,Genesis,2
+28,Red Lake Public School District,Regular school,MN,273051001301,Apex,2
+29,Brookwood Sd 167,Regular school,IL,171695002006,Apex,1
+30,Geneva Cusd 304,Regular school,IL,171638001955,Luminary,2
+31,Indian Creek Cusd 425,Regular school,IL,173597000455,Odyssey,2
+32,Tucson Unified District (4403),Regular school,AZ,40880000882,Odyssey,3
+33,Campbellsport School District,Regular school,WI,550216000259,Apex,3
+34,New Bedford,Regular school,MA,250843002681,Apex,3
+35,Montgomery County Public Schools,Regular school,MD,240048000798,Luminary,3
+36,Deer Lakes Sd,Regular school,PA,420754000431,Horizon,3
+37,Upland Unified,Alternative Education School,CA,60001609085,Luminary,2
+38,Santa Clara Unified,Alternative Education School,CA,63543006053,Odyssey,1
+39,Enid,Regular school,OK,401092002717,Apex,3
+40,Mapleton School District No. 1 In The County Of Adams & St,Regular school,CO,80555006786,Horizon,1
+41,Miami-Dade,Regular school,FL,120039000604,Apex,2
+42,Forsyth County,Regular school,GA,130222001897,Luminary,2
+43,Wasco Union High,Regular school,CA,64143006849,Endeavor,1
+44,San Ysidro Elementary,Regular school,CA,63522005966,Genesis,1
+45,Kaizen Education Foundation Dba Discover U Element (91328),Regular school,AZ,40089403379,Luminary,3
+46,Poolville Isd,Regular school,TX,483534008011,Odyssey,1
+47,San Francisco Unified,Regular school,CA,63441013244,Odyssey,3
+48,South Glens Falls Central School District,Regular school,NY,362724003717,Apex,3
+49,Hiawatha Academies,Regular school,MN,270028804862,Luminary,3
+50,Hays Cisd,Regular school,TX,480001008836,Apex,3
+51,Weston Preparatory Academy,Regular school,MI,260023001200,Apex,3
+52,Zapata County Isd,Regular school,TX,484671005352,Luminary,1
+53,Lafourche Parish,Regular school,LA,220090000699,Odyssey,1
+54,Marion-Florence,Regular school,KS,200924000947,Luminary,2
+55,Sumter 01,Regular school,SC,450390200223,Genesis,1
+56,Loudoun Co Pblc Schs,Regular school,VA,510225001915,Luminary,1
+57,Whitesboro Central School District,Regular school,NY,363132004191,Luminary,1
+58,Tazewell Co Pblc Schs,Regular school,VA,510381001669,Odyssey,1
+59,Yale Public Schools,Regular school,MI,263660007272,Genesis,1
+60,Yukon,Regular school,OK,403348001846,Luminary,3
+61,Aiken 01,Regular school,SC,450072000018,Odyssey,3
+62,Hamilton County,Regular school,TN,470159002220,Odyssey,3
+63,Twin Rivers Unified,Regular school,CA,60133205098,Luminary,1
+64,Mono County Office Of Education,Alternative Education School,CA,69105213701,Luminary,3
+65,Blair Community Schools,Regular school,NE,310410000088,Odyssey,1
+66,Livermore Valley Joint Unified,Regular school,CA,62211008438,Genesis,2
+67,Yazoo City Municipal School Dist,Career and Technical School,MS,280477001098,Horizon,3
+68,Campbellsport School District,Regular school,WI,550216000260,Genesis,1
+69,Waterbury School District,Regular school,CT,90483000991,Horizon,3
+70,Puerto Rico Department Of Education,Regular school,PR,720003000454,Odyssey,3
+71,Va Beach City Pblc Schs,Regular school,VA,510384001710,Luminary,2
+72,Pima County Jted (89380),Career and Technical School,AZ,40075202776,Endeavor,3
+73,Charlotte-Mecklenburg Schools,Regular school,NC,370297001262,Horizon,1
+74,Lake Forest Sd 67,Regular school,IL,172175002451,Apex,3
+75,Cambridge,Regular school,MA,250327000441,Luminary,3
+76,Bentonville School District,Regular school,AR,50306000073,Odyssey,1
+77,City Of Chicago Sd 299,Regular school,IL,170993006499,Horizon,2
+78,Southgate Community School District,Alternative Education School,MI,263234001932,Horizon,2
+79,Christina School District,Regular school,DE,100020000224,Luminary,3
+80,Beacon Academy,Regular school,MN,270036604879,Endeavor,3
+81,Topeka Public Schools,Regular school,KS,201226001456,Horizon,2
+82,Jefferson Township Public School District,Regular school,NJ,340780004266,Luminary,1
+83,Middleton District,Regular school,ID,160213000378,Apex,3
+84,Stanly County Schools,Regular school,NC,370432001713,Apex,1
+85,Princeton City,Regular school,OH,390446701557,Luminary,2
+86,Ceres Unified,Regular school,CA,60813000788,Apex,1
+87,Academy School District No. 20 In The County Of El Paso An,Regular school,CO,80192000007,Genesis,2
+88,Lamar County,Regular school,GA,130321002084,Horizon,2
+89,Ripon Area School District,Regular school,WI,551302002978,Endeavor,3
+90,Kansas City,Regular school,KS,200795001437,Luminary,1
+91,Bellflower Unified,Alternative Education School,CA,60444000408,Luminary,2
+92,Carbon District,Regular school,UT,490015000097,Luminary,1
+93,Rsu 54/Msad 54,Regular school,ME,231459023112,Apex,3
+94,Plano Isd,Regular school,TX,483510008152,Genesis,2
+95,Shoreline School District,Regular school,WA,530792001299,Endeavor,1
+96,Pasadena Isd,Regular school,TX,483432012706,Luminary,3
+97,Folsom-Cordova Unified,Regular school,CA,61389001569,Odyssey,2
+98,Higley Unified School District (4248),Regular school,AZ,40378001392,Endeavor,2
+99,Polk,Regular school,FL,120159001760,Genesis,2
+100,Madison Co School Dist,Regular school,MS,280279001318,Apex,2
+101,Wood Dale Sd 7,Regular school,IL,174302004317,Apex,2
+102,Spokane School District,Regular school,WA,530825001407,Apex,1
+103,Granite District,Regular school,UT,490036000258,Horizon,2
+104,Lee,Regular school,FL,120108004109,Luminary,3
+105,Shenendehowa Central School District,Regular school,NY,362667003635,Endeavor,2
+106,Pajaro Valley Unified,Regular school,CA,62949004539,Apex,3
+107,Toms River Regional School District,Regular school,NJ,341623004732,Luminary,2
+108,District Of Columbia Public Schools,Regular school,DC,110003000074,Luminary,1
+109,Plumas Unified,Regular school,CA,63117010272,Luminary,3
+110,East Valley School District (Spokane),Special education school,WA,530228003111,Apex,3
+111,Pinon Unified District (4390),Regular school,AZ,40002301355,Luminary,3
+112,Kankakee Area Spec Educ Coop,Special education school,IL,170005605105,Horizon,2
+113,Orland Sd 135,Regular school,IL,173022003122,Odyssey,3
+114,International Leadership Of Texas (Iltexas),Regular school,TX,480144013264,Apex,1
+115,Columbia,Regular school,FL,120036000360,Apex,2
+116,Monessen City Sd,Regular school,PA,421560000087,Apex,2
+117,West Washington School Corp,Regular school,IN,181293002063,Endeavor,3
+118,Harmony Science Acad (San Antonio),Regular school,TX,480026613421,Luminary,1
+119,Merced Union High,Alternative Education School,CA,62466011689,Luminary,2
+120,Dorchester 02,Regular school,SC,450201001568,Apex,2
+121,Peach Springs Unified District (4369),Regular school,AZ,40612002033,Luminary,2
+122,El Paso Isd,Regular school,TX,481830010640,Odyssey,1
+123,Cincinnati Public Schools,Regular school,OH,390437500349,Apex,1
+124,Racine Unified School District,Regular school,WI,551236001622,Luminary,2
+125,Harrison School District No. 2 In The County Of El Paso An,Regular school,CO,80453001443,Endeavor,3
+126,Montgomery County Public Schools,Regular school,MD,240048000773,Luminary,1
+127,Colton Joint Unified,Regular school,CA,60939007687,Apex,2
+128,Andover,Regular school,KS,200336000860,Genesis,3
+129,Victor Elementary,Regular school,CA,64104008586,Luminary,3
+130,Success Academy Charter School-Harlem 4,Regular school,NY,360095306018,Luminary,3
+131,Adrian Public School District,Regular school,MN,270273003076,Genesis,3
+132,Glenburn 26,Regular school,ND,380785000237,Odyssey,2
+133,Huber Heights City,Regular school,OH,390487503395,Endeavor,3
+134,City Of Chicago Sd 299,Regular school,IL,170993000807,Odyssey,1
+135,Madera County Superintendent Of Schools,Alternative Education School,CA,69101708131,Luminary,3
+136,Blount County,Regular school,TN,470030002099,Odyssey,3
+137,Erie City Sd,Regular school,PA,420930002004,Horizon,2
+138,Konocti Unified,Regular school,CA,62007002401,Luminary,2
+139,Wahluke School District,Regular school,WA,530936002070,Luminary,2
+140,Colorado Springs School District No. 11 In The County Of E,Regular school,CO,80306000238,Apex,1
+141,Kaizen Education Foundation Dba Discover U Element (91328),Regular school,AZ,40089403379,Apex,1
+142,South Glens Falls Central School District,Regular school,NY,362724003715,Odyssey,3
+143,Waterloo Cusd 5,Regular school,IL,174107000187,Luminary,2
+144,Montgomery County Public Schools,Regular school,MD,240048000814,Luminary,1
+145,Londonderry School District,Regular school,NH,330441000233,Luminary,3
+146,City Of Chicago Sd 299,Regular school,IL,170993006515,Apex,3
+147,Mifflin County Sd,Regular school,PA,421529000784,Horizon,3
+148,Victoria Isd,Regular school,TX,484415005006,Luminary,3
+149,Inspire Academics Inc.,Regular school,ID,160001100866,Endeavor,3
+150,New Caney Isd,Regular school,TX,483240013059,Genesis,2
+151,Dublin Unified,Regular school,CA,60001912927,Luminary,1
+152,School City Of Hammond,Regular school,IN,180432000736,Genesis,1
+153,Garden Grove Unified,Regular school,CA,61488001865,Luminary,2
+154,Prince George'S County Public Schools,Regular school,MD,240051001701,Genesis,3
+155,Hawaii Department Of Education,Regular school,HI,150003000149,Luminary,1
+156,Hinton Comm School District,Regular school,IA,191416000844,Apex,3
+157,Craven County Schools,Regular school,NC,370331000388,Luminary,1
+158,College Station Isd,Regular school,TX,480735008130,Luminary,3
+159,West Springfield,Regular school,MA,251251002048,Luminary,1
+160,Christina School District,Regular school,DE,100020000239,Apex,2
+161,Mount Vernon School District,Regular school,WA,530540002262,Luminary,2
+162,Youngstown City,Regular school,OH,390451602062,Luminary,2
+163,Columbia Cusd 4,Regular school,IL,171074006140,Apex,3
+164,Griggsville-Perry Cusd 4,Regular school,IL,171779002073,Genesis,2
+165,Tuscaloosa City,Regular school,AL,10336002101,Endeavor,2
+166,Neshaminy Sd,Regular school,PA,421641001077,Genesis,2
+167,Mingo County Schools,Regular school,WV,540090001492,Apex,2
+168,Miller Place Union Free School District,Regular school,NY,361941004303,Odyssey,3
+169,Arp Isd,Regular school,TX,480873000270,Luminary,2
+170,Sullivan County,Regular school,TN,470399001624,Luminary,1
+171,Moberly,Regular school,MO,292110001157,Apex,1
+172,Brownsville Isd,Regular school,TX,481168012077,Endeavor,1
+173,Omaha Public Schools,Regular school,NE,317482001359,Genesis,3
+174,Northeast Central School District,Regular school,NY,363039005848,Luminary,1
+175,Lakeview Community Schools,Regular school,NE,310011202219,Apex,2
+176,Hatfield,Regular school,MA,250594000843,Luminary,1
+177,Muscogee County,Regular school,GA,130387001420,Genesis,2
+178,Edinburg Cisd,Regular school,TX,481818008286,Genesis,1
+179,St. Vrain Valley School District No. Re1J,Regular school,CO,80537006594,Apex,3
+180,Montgomery County,Regular school,AL,10243001458,Apex,2
+181,South Lane Sd 45J3,Alternative Education School,OR,411158001390,Luminary,3
+182,Futures High District,Regular school,CA,60177511070,Horizon,3
+183,San Diego Unified,Regular school,CA,63432005430,Endeavor,2
+184,Harnett County Schools,Regular school,NC,370201002733,Apex,3
+185,Cottonwood-Oak Creek Elementary District (4487),Regular school,AZ,40237003619,Apex,3
+186,Charter Oak Unified,Alternative Education School,CA,60819005854,Horizon,1
+187,Fabens Isd,Alternative Education School,TX,481890010651,Luminary,1
+188,Zeeland Public Schools,Regular school,MI,263666007291,Luminary,3
+189,Brevard,Regular school,FL,120015000093,Luminary,2
+190,Caddo Parish,Regular school,LA,220030000190,Luminary,2
+191,Cumberland County Schools,Regular school,NC,370001103539,Genesis,1
+192,Line Mountain Sd,Regular school,PA,421446006786,Luminary,3
+193,Hitchcock Co Sch System,Regular school,NE,310012000185,Odyssey,1
+194,Shawano School District,Regular school,WI,551362001779,Endeavor,1
+195,Park Rapids Public School District,Regular school,MN,272808001236,Luminary,3
+196,Tulare City,Alternative Education School,CA,63987012991,Apex,3
+197,Andover School District,Regular school,NH,330150000008,Luminary,1
+198,Prince William Co Pblc Schs,Regular school,VA,510313001402,Horizon,3
+199,Wheatland,Regular school,KS,200663001873,Apex,1
+200,Sheboygan Area School District,Regular school,WI,551365001796,Apex,3
+201,Lake,Regular school,FL,120105001103,Apex,3
+202,Yellowstone Academy Elem,Regular school,MT,302886001114,Genesis,3
+203,Santa Fe R-X,Regular school,MO,290300000013,Luminary,3
+204,Washoe County School District,Regular school,NV,320048000216,Odyssey,2
+205,Oconee County,Regular school,GA,130396004316,Luminary,2
+206,Beacon City School District,Regular school,NY,360414000178,Endeavor,2
+207,Loneman Day School,Regular school,BI,590004500116,Apex,2
+208,Vista Unified,Regular school,CA,64119006819,Apex,2
+209,Cordova City School District,Regular school,AK,20006000627,Luminary,1
+210,Central Kitsap School District,Regular school,WA,530108001753,Luminary,2
+211,Union Sd 81,Regular school,IL,173966004004,Horizon,3
+212,Deer River Public School District,Special education school,MN,271014004672,Luminary,2
+213,Gaston County Schools,Regular school,NC,370162000670,Genesis,2
+214,Cherokee Comm School District,Regular school,IA,190717000332,Apex,3
+215,St. Landry Parish,Regular school,LA,220156002006,Odyssey,3
+216,Breckinridge County,Regular school,KY,210072000138,Luminary,3
+217,Northeastern York Sd,Regular school,PA,421752006121,Apex,2
+218,Enid,Regular school,OK,401092000506,Horizon,2
+219,Albuquerque Public Schools,Regular school,NM,350006000918,Genesis,1
+220,Falls Church City Pblc Schs,Regular school,VA,510129002971,Apex,3
+221,Christina School District,Special education school,DE,100020000349,Genesis,2
+222,Gunter Isd,Regular school,TX,482196002213,Luminary,1
+223,Beacon City School District,Regular school,NY,360414000177,Luminary,1
+224,Arizona Community Development Corporation (79947),Regular school,AZ,40036102299,Genesis,3
+225,New York City Geographic District # 2,Regular school,NY,360007705085,Luminary,1
+226,Bonsall Unified,Regular school,CA,60142609519,Apex,3
+227,Comal Isd,Regular school,TX,481473000966,Endeavor,3
+228,Onondaga Central School District,Regular school,NY,362181003100,Odyssey,3
+229,Snoqualmie Valley School District,Special education school,WA,530804003309,Apex,2
+230,Richard Milburn Alter High School (Killeen),Alternative Education School,TX,480007509507,Odyssey,2
+231,El Rancho Unified,Regular school,CA,61218001373,Apex,2
+232,Dubuque Comm School District,Regular school,IA,190948000620,Endeavor,1
+233,Coleman,Regular school,OK,400831000347,Genesis,3
+234,Oxnard,Regular school,CA,62922004509,Luminary,2
+235,Charles County Public Schools,Regular school,MD,240027000585,Luminary,3
+236,Horizon Community Learning Center Inc. (92620),Regular school,AZ,40092103428,Luminary,3
+237,Hawaii Department Of Education,Regular school,HI,150003000015,Luminary,1
+238,Perry,Regular school,OK,402385001266,Genesis,1
+239,Orangefield Isd,Regular school,TX,483378003767,Luminary,2
+240,Puerto Rico Department Of Education,Regular school,PR,720003001057,Endeavor,3
+241,Pharr-San Juan-Alamo Isd,Regular school,TX,483486007653,Endeavor,1
+242,Clover Park School District,Regular school,WA,530141000256,Odyssey,3
+243,Twin Valley Unified School District,Regular school,VT,500041800540,Luminary,1
+244,Aleutians East Borough School District,Regular school,AK,20000700007,Endeavor,3
+245,Chico Unified,Regular school,CA,60837000815,Luminary,2
+246,Fairfield 01,Regular school,SC,450210001392,Luminary,3
+247,Circle Elem,Regular school,MT,300679000186,Apex,3
+248,St. Joseph,Regular school,MO,292706001667,Luminary,2
+249,Pleasant Valley Sd,Regular school,PA,421929000546,Luminary,1
+250,Los Angeles Unified,Regular school,CA,62271002963,Horizon,3
+251,Valley Central School District (Montgomery),Regular school,NY,361968001801,Genesis,3
+252,Roselle Sd 12,Regular school,IL,173471003630,Odyssey,1
+253,Dickinson Isd,Regular school,TX,481707005455,Endeavor,3
+254,Vision Charter School Inc.,Regular school,ID,160014100942,Luminary,1
+255,Brentwood Union Elementary,Regular school,CA,60591008455,Apex,2
+256,Capital Preparatory (Cp) Harlem Charter School,Regular school,NY,360114406597,Genesis,1
+257,Miami-Dade,Regular school,FL,120039002711,Luminary,2
+258,Ouachita School District,Regular school,AR,51098000828,Luminary,1
+259,New York City Geographic District # 2,Regular school,NY,360007700595,Luminary,3
+260,Williston 1,Regular school,ND,381988000860,Apex,2
+261,Solvay Union Free School District,Regular school,NY,362715005736,Apex,1
+262,Scott Co. R-Iv,Regular school,MO,290489000059,Genesis,3
+263,Juneau Borough School District,Regular school,AK,20021000265,Luminary,3
+264,Tippecanoe Valley School Corp,Regular school,IN,181137001839,Genesis,2
+265,Piggott School District,Regular school,AR,51137000851,Odyssey,3
+266,Achievement School District,Regular school,TN,470014701140,Luminary,3
+267,Kaufman Isd,Regular school,TX,482520013740,Apex,1
+268,Anchorage School District,Regular school,AK,20018000058,Apex,1
+269,Midland Comm School District,Regular school,IA,191920002162,Apex,1
+270,Brownsville Isd,Regular school,TX,481168003325,Horizon,2
+271,Kenosha School District,Regular school,WI,550732000826,Apex,1
+272,Springfield School District No. Re-4,Regular school,CO,80663001141,Luminary,2
+273,Lake Zurich Cusd 95,Regular school,IL,172190002464,Apex,3
+274,Holmes,Regular school,FL,120090001044,Endeavor,2
+275,Washburn School District,Regular school,WI,551554001984,Luminary,2
+276,Florence Isd,Alternative Education School,TX,481932012084,Apex,2
+277,Gillespie Cusd 7,Regular school,IL,171668001973,Apex,2
+278,Oak Hill R-I,Regular school,MO,292304001319,Horizon,2
+279,Kentwood Public Schools,Regular school,MI,262034007683,Endeavor,3
+280,Sc Public Charter School District,Regular school,SC,450390101176,Horizon,2
+281,City Of Chicago Sd 299,Regular school,IL,170993001198,Odyssey,1
+282,St. Vrain Valley School District No. Re1J,Regular school,CO,80537001572,Luminary,2
+283,Philadelphia City Sd,Regular school,PA,421899003860,Horizon,1
+284,Franklin-Essex-Hamilton Boces,Special education school,NY,368034004633,Endeavor,2
+285,Converse County School District #2,Regular school,WY,560215000141,Apex,1
+286,Alameda Unified,Regular school,CA,60177000003,Apex,2
+287,Show Low Unified District (4393),Regular school,AZ,40770001253,Luminary,1
+288,Walled Lake Consolidated Schools,Regular school,MI,263516007674,Luminary,2
+289,Stillwater,Regular school,OK,402868029742,Luminary,2
+290,District Of Columbia Public Schools,Regular school,DC,110003000002,Genesis,2
+291,Baltimore City Public Schools,Regular school,MD,240009000148,Luminary,3
+292,Orange,Regular school,FL,120144002687,Endeavor,3
+293,Columbia,Regular school,FL,120036007700,Luminary,3
+294,Aspermont Isd,Regular school,TX,480000600274,Genesis,2
+295,Te Tsu Geh Oweenge Day School,Regular school,BI,590003900098,Luminary,3
+296,Lynn,Regular school,MA,250711002658,Apex,1
+297,Winston Salem / Forsyth County Schools,Regular school,NC,370150000630,Odyssey,3
+298,Naugatuck School District,Regular school,CT,90264000508,Apex,2
+299,Gainesville City,Regular school,GA,130231001048,Apex,2
+300,Genesee Isd,Special education school,MI,268040000130,Genesis,3
+301,Cabot School District,Regular school,AR,50375000399,Odyssey,1
+302,Kingsburg Elementary Charter,Regular school,CA,61980002380,Luminary,3
+303,Central Unified,Regular school,CA,60797010493,Horizon,3
+304,Warrick County School Corp,Regular school,IN,181239001983,Luminary,2
+305,Loudoun Co Pblc Schs,Regular school,VA,510225002865,Luminary,2
+306,Frederick County Public Schools,Regular school,MD,240033000657,Luminary,1
+307,White Oak Isd,Regular school,TX,484548005173,Luminary,2
+308,Parkway C-2,Regular school,MO,292358001393,Apex,2
+309,Middlesex County Vocational And Technical School District,Career and Technical School,NJ,341008003428,Horizon,3
+310,Comal Isd,Regular school,TX,481473000966,Apex,1
+311,Fresno Unified,Regular school,CA,61455003010,Apex,1
+312,Northwestern Illinois Assn,Special education school,IL,172902006596,Odyssey,1
+313,Harvest Power Community Development Group Inc. (79501),Regular school,AZ,40028203457,Odyssey,3
+314,West Valley School District (Yakima),Regular school,WA,530972002545,Apex,2
+315,South Barber,Regular school,KS,200813001933,Luminary,2
+316,Richland 01,Regular school,SC,450336001195,Odyssey,1
+317,Edison Joint District No. 54 Of The Counties Of El Paso And,Regular school,CO,80363006648,Endeavor,1
+318,Community Schools Of Frankfort,Regular school,IN,180366002432,Luminary,1
+319,Butte Falls Sd 91,Regular school,OR,410258000426,Genesis,3
+320,Saint Croix School District,Regular school,VI,780000200013,Endeavor,1
+321,Dayton City,Regular school,OH,390438400791,Apex,3
+322,Mount Olive Township School District,Regular school,NJ,341098004412,Odyssey,3
+323,Richardson Isd,Regular school,TX,483702004140,Genesis,2
+324,Plainfield Sd 202,Regular school,IL,173174005749,Luminary,1
+325,Brownsburg Community School Corp,Regular school,IN,180102000178,Luminary,2
+326,Black Horse Pike Regional School District,Regular school,NJ,340177000425,Luminary,1
+327,Va Beach City Pblc Schs,Regular school,VA,510384001717,Endeavor,2
+328,Duluth Public School District,Regular school,MN,271104000471,Odyssey,2
+329,Lawrence County,Regular school,AL,10204000779,Odyssey,1
+330,Leon,Special education school,FL,120111002079,Endeavor,3
+331,Gwinnett County,Regular school,GA,130255002040,Apex,2
+332,Imlay City Community Schools,Regular school,MI,261910005591,Luminary,2
+333,Transylvania County Schools,Regular school,NC,370453001782,Odyssey,3
+334,Cumberland County Schools,Regular school,NC,370001100437,Genesis,1
+335,Piscataway Township School District,Regular school,NJ,341305003572,Genesis,3
+336,Desoto Isd,Regular school,TX,481686013368,Genesis,1
+337,Manteca Unified,Regular school,CA,62361003578,Odyssey,2
+338,Guilford County Schools,Regular school,NC,370192002774,Apex,2
+339,Dover #1 School District,Regular school,WI,550375000394,Apex,3
+340,Calaveras Unified,Regular school,CA,60687009522,Luminary,1
+341,Clovis Unified,Regular school,CA,60903005747,Apex,1
+342,Arbor Academy,Regular school,MI,260018101053,Apex,1
+343,Clinton Comm School District,Regular school,IA,190771000597,Luminary,1
+344,Fayette County,Regular school,GA,130213002118,Luminary,2
+345,Richmond City Pblc Schs,Regular school,VA,510324001361,Apex,3
+346,Staples-Motley School District,Regular school,MN,273390001643,Luminary,3
+347,Oyster River Coop School District,Regular school,NH,330552000520,Luminary,3
+348,Cortland City School District,Regular school,NY,360846000650,Luminary,3
+349,Clear Creek Isd,Regular school,TX,481428007004,Apex,1
+350,Miami-Dade,Regular school,FL,120039000516,Luminary,3
+351,Wayzata Public School District,Alternative Education School,MN,274216003521,Genesis,3
+352,Windsor Locks School District,Regular school,CT,90525001097,Genesis,1
+353,Butler Area Sd,Regular school,PA,420459001142,Luminary,3
+354,Pasco,Regular school,FL,120153008598,Luminary,3
+355,Bossier Parish,Regular school,LA,220027000116,Genesis,3
+356,Long Beach Unified,Regular school,CA,62250002702,Genesis,3
+357,Webb City R-Vii,Regular school,MO,293150002184,Luminary,3
+358,City Of Chicago Sd 299,Regular school,IL,170993000646,Luminary,2
+359,Amarillo Isd,Regular school,TX,480813000151,Genesis,1
+360,Eufaula City,Regular school,AL,10141002439,Endeavor,2
+361,Redlands Unified,Regular school,CA,63207002617,Luminary,3
+362,Cainsville R-I,Regular school,MO,290645000164,Apex,1
+363,New York City Geographic District # 6,Regular school,NY,360008303681,Luminary,1
+364,Bozeman Elem,Regular school,MT,300456000107,Luminary,3
+365,Meeker And Wright Special Education,Special education school,MN,270004502960,Endeavor,1
+366,Rhinebeck Central School District,Regular school,NY,362448003343,Apex,2
+367,Danbury School District,Regular school,CT,90102001438,Endeavor,1
+368,Silverton School District No. 1 In The County Of San Juan,Regular school,CO,80657001137,Luminary,2
+369,La Joya Isd,Regular school,TX,482613008658,Odyssey,2
+370,Wilkes-Barre Area Sd,Regular school,PA,422630000294,Luminary,3
+371,Pottsgrove Sd,Regular school,PA,421965003336,Apex,3
+372,Elizabeth City-Pasquotank Public Schools,Regular school,NC,370354002537,Apex,2
+373,Wake County Schools,Regular school,NC,370472001872,Apex,2
+374,Polk,Regular school,FL,120159001735,Endeavor,3
+375,Greater Latrobe Sd,Regular school,PA,421098004845,Luminary,2
+376,District Of Columbia Public Schools,Regular school,DC,110003000067,Luminary,1
+377,Harrisburg City Sd,Regular school,PA,421158007483,Genesis,2
+378,Beaufort 01,Regular school,SC,450111000147,Luminary,3
+379,Oak Hills Local,Regular school,OH,390473702873,Apex,1
+380,Kern High,Regular school,CA,61954002041,Apex,1
+381,Macks Creek R-V,Regular school,MO,291938001049,Endeavor,3
+382,Charlotte-Mecklenburg Schools,Regular school,NC,370297001229,Apex,3
+383,Jersey City Public Schools,Regular school,NJ,340783003395,Apex,1
+384,New York City Geographic District #32,Regular school,NY,360009706331,Apex,3
+385,Camden County,Regular school,GA,130078001875,Luminary,3
+386,Muscatine Comm School District,Regular school,IA,192013001195,Luminary,1
+387,Wood County Schools,Regular school,WV,540162001161,Odyssey,2
+388,Stockdale Isd,Alternative Education School,TX,484161011115,Luminary,1
+389,Berlin Township School District,Regular school,NJ,340162001332,Endeavor,1
+390,Murray District,Special education school,UT,490060001248,Luminary,3
+391,San Mateo-Foster City,Regular school,CA,63492005905,Genesis,2
+392,Desert Sands Unified,Regular school,CA,61111011244,Odyssey,3
+393,San Ramon Valley Unified,Regular school,CA,63513005943,Genesis,1
+394,Rockford Sd 205,Regular school,IL,173451003580,Endeavor,2
+395,Phoenix Academy Public Charter High School Lawrence (Distric,Regular school,MA,250059002886,Apex,3
+396,Circle,Regular school,KS,201230000802,Horizon,1
+397,Delhi Unified,Regular school,CA,60003901212,Luminary,3
+398,Mineral County School District,Regular school,NV,320033000183,Luminary,2
+399,Pell City,Regular school,AL,10265001722,Endeavor,3
+400,Delta County Joint District No. 50,Regular school,CO,80333000293,Luminary,1
+401,North Collins Central School District,Regular school,NY,362097002978,Apex,2
+402,Academy Isd,Regular school,TX,480747006348,Horizon,3
+403,Lexington Isd,Regular school,TX,482733003076,Luminary,1
+404,Albert Lea Public School District,Regular school,MN,270297000068,Endeavor,3
+405,Talihina,Regular school,OK,402940001548,Genesis,1
+406,Puerto Rico Department Of Education,Regular school,PR,720003001944,Odyssey,3
+407,Gloucester Co Pblc Schs,Regular school,VA,510162002188,Odyssey,2
+408,Rsu 71,Regular school,ME,231482200440,Odyssey,1
+409,Anderson 05,Regular school,SC,450090001574,Apex,1
+410,Central Heights,Regular school,KS,200001400454,Apex,1
+411,Ashtabula Area City,Regular school,OH,390435100090,Genesis,2
+412,Martinez Unified,Alternative Education School,CA,62403007071,Luminary,3
+413,Eatontown Public School District,Regular school,NJ,340441003770,Luminary,2
+414,Marais Des Cygnes Valley,Regular school,KS,200948001167,Genesis,3
+415,Montgomery County Public Schools,Regular school,MD,240048000956,Odyssey,2
+416,Chesapeake City Pblc Schs,Career and Technical School,VA,510081000285,Luminary,2
+417,Wilton Comm School District,Regular school,IA,193180001850,Apex,2
+418,Hilliard City,Regular school,OH,390470104609,Luminary,3
+419,Mokena Sd 159,Regular school,IL,172637002802,Endeavor,2
+420,Hillsboro Deering Coop School District,Regular school,NH,330375000165,Horizon,3
+421,Regional School District 05,Regular school,CT,90366001114,Luminary,1
+422,Oxnard,Regular school,CA,62922004504,Genesis,1
+423,Dry Creek Joint Elementary,Regular school,CA,61149013755,Apex,2
+424,Mesa Unified District (4235),Regular school,AZ,40497001375,Luminary,1
+425,Manor Isd,Regular school,TX,482889006581,Apex,1
+426,Harrah,Regular school,OK,401389001916,Luminary,3
+427,Yancey County Schools,Regular school,NC,370507003497,Horizon,1
+428,Intermediate School District 917,Alternative Education School,MN,270002604516,Genesis,1
+429,Monroe Central School Corp,Regular school,IN,180708002226,Luminary,2
+430,Holmes,Regular school,FL,120090001046,Odyssey,3
+431,Greenville 01,Regular school,SC,450231000572,Genesis,1
+432,New York City Geographic District #10,Regular school,NY,360008705550,Luminary,1
+433,Baltimore City Public Schools,Regular school,MD,240009000147,Odyssey,2
+434,Lebanon Community School Corp,Regular school,IN,180579001040,Endeavor,3
+435,Trinity Alps Unified,Regular school,CA,60133106605,Luminary,1
+436,Fresno Unified,Regular school,CA,61455008841,Luminary,3
+437,Goodland,Regular school,KS,200658000717,Luminary,2
+438,Randolph County Schools,Regular school,WV,540126001371,Apex,2
+439,Lamar County,Regular school,GA,130321001294,Apex,1
+440,School District No. 1 In The County Of Denver And State Of C,Regular school,CO,80336001522,Genesis,3
+441,Rockford Sd 205,Regular school,IL,173451003559,Luminary,3
+442,Klamath County Sd,Regular school,OR,410702000501,Luminary,1
+443,Area Vocational Technical Schools Of Mercer County,Career and Technical School,NJ,340995003178,Apex,2
+444,Folsom Borough School District,Regular school,NJ,340528000104,Apex,1
+445,Pearland Isd,Regular school,TX,483444011561,Genesis,2
+446,Newton County,Regular school,GA,130393001023,Odyssey,1
+447,Sheridan School District No. 2,Regular school,CO,80654000032,Endeavor,2
+448,Ephrata School District,Regular school,WA,530261000386,Luminary,2
+449,Puerto Rico Department Of Education,Regular school,PR,720003001277,Luminary,3
+450,City Schools Of Decatur,Regular school,GA,130168000802,Horizon,3
+451,George Gervin Academy,Alternative Education School,TX,480001410415,Luminary,2
+452,New York City Geographic District #31,Career and Technical School,NY,360010302861,Luminary,3
+453,Los Fresnos Cisd,Alternative Education School,TX,482829011868,Endeavor,2
+454,Jubilee Academies,Regular school,TX,480017912723,Apex,3
+455,Athens City,Regular school,OH,390435200102,Odyssey,2
+456,Canton Isd,Regular school,TX,481275000768,Horizon,2
+457,Richland 01,Regular school,SC,450336000930,Luminary,1
+458,Anderson 05,Regular school,SC,450090001576,Luminary,1
+459,Holly Springs School Dist,Regular school,MS,280195000335,Luminary,2
+460,Oconee 01,Regular school,SC,450306000825,Apex,2
+461,Spartanburg 01,Regular school,SC,450348000984,Genesis,1
+462,Aurora R-Viii,Regular school,MO,290402002981,Luminary,2
+463,Bradley County,Regular school,TN,470033002224,Apex,1
+464,Union Co/Clg Corner Joint Sch Dist,Regular school,IN,181161001870,Endeavor,2
+465,Fort Worth Isd,Alternative Education School,TX,481970021053,Genesis,1
+466,Clear Lake School District,Regular school,WI,550261000293,Luminary,1
+467,Kansas City,Regular school,KS,200795001437,Genesis,1
+468,Enterprise City,Regular school,AL,10132000481,Apex,2
+469,Caldwell County Schools,Regular school,NC,370058000229,Luminary,1
+470,Pine Island Public School District,Alternative Education School,MN,272895004803,Horizon,1
+471,Hanford Joint Union High,Regular school,CA,61650014320,Genesis,2
+472,Humphreys Co School Dist,Regular school,MS,280204001039,Luminary,3
+473,Madison Co School Dist,Regular school,MS,280279000988,Endeavor,3
+474,Amador County Unified,Alternative Education School,CA,60245006975,Odyssey,3
+475,Austin Isd,Regular school,TX,480894000341,Odyssey,1
+476,Atlanta Public Schools,Regular school,GA,130012002453,Genesis,2
+477,Baltimore City Public Schools,Regular school,MD,240009000234,Odyssey,2
+478,Edmonds School District,Alternative Education School,WA,530240000338,Luminary,3
+479,Savannah-Chatham County,Regular school,GA,130102000386,Luminary,3
+480,Vaughn Municipal Schools,Regular school,NM,350000100608,Apex,3
+481,Henrico Co Pblc Schs,Regular school,VA,510189000827,Luminary,2
+482,Spring Lake Park Public Schools,Regular school,MN,273333001467,Luminary,2
+483,International Leadership Of Texas (Iltexas),Regular school,TX,480144013267,Luminary,1
+484,Office Of Education Department Of Children And Families,Alternative Education School,NJ,340008503317,Horizon,1
+485,Penncrest Sd,Regular school,PA,421874006137,Luminary,3
+486,San Bernardino City Unified,Regular school,CA,63417011107,Luminary,2
+487,San Ramon Valley Unified,Regular school,CA,63513000289,Odyssey,2
+488,Paint Rock Isd,Regular school,TX,483398003779,Luminary,1
+489,Lakeport Unified,Regular school,CA,62067002484,Endeavor,3
+490,San Bernardino City Unified,Regular school,CA,63417011107,Genesis,3
+491,Simpson County,Alternative Education School,KY,210540001652,Genesis,1
+492,Miami-Dade,Alternative Education School,FL,120039002555,Luminary,1
+493,Trinidad Union Elementary,Regular school,CA,63972006602,Apex,2
+494,Belgrade-Brooten-Elrosa School Dist,Regular school,MN,270010500182,Luminary,2
+495,Hazen School District,Regular school,AR,50753000464,Luminary,1
+496,Woodford Cty Special Ed Assoc,Special education school,IL,170143706695,Genesis,2
+497,Brushy,Regular school,OK,400558000214,Luminary,1
+498,Rowan-Salisbury Schools,Regular school,NC,370405002850,Genesis,1
+499,Greene County Comm School District,Regular school,IA,191521000919,Apex,3

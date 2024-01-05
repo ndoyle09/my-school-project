@@ -49,14 +49,13 @@ def generate_projects(schools_df):
             project_id = fake.unique.random_int(min=10000000, max=99999999)
 
             # Generate a random start date
-            project_start_date = fake.date_between_dates(date_start=datetime(2023, 1, 1),
-                                                         date_end=datetime(2023, 2, 1))
+            project_start_date = fake.date_this_year(before_today=True, after_today=True)
             project_end_date = project_start_date + timedelta(weeks=random.randint(7, 13))
 
             # Generate five dates
             milestone_dates = [project_start_date]
             for milestone in range(4):
-                new_date = milestone_dates[-1] + timedelta(days=random.randint(1,30))
+                new_date = milestone_dates[-1] + timedelta(days=random.randint(5,15))
                 milestone_dates.append(new_date)
 
             # Sort dates in order
@@ -64,7 +63,7 @@ def generate_projects(schools_df):
 
             # Make sure date5 is before project_end_date
             while milestone_dates[-1] >= project_end_date:
-                milestone_dates[-1] = milestone_dates[-1] - timedelta(days=random.randint(1,30))
+                milestone_dates[-1] = milestone_dates[-1] - timedelta(days=random.randint(5,10))
 
             # Assign dates to variables
             date_1, date_2, date_3, date_4, date_5 = milestone_dates
@@ -87,6 +86,12 @@ def generate_projects(schools_df):
                                  'milestone3': date_3,
                                  'milestone4': date_4,
                                  'milestone5': date_5
+                                 # 'valid_dates': str(project_start_date <= date_1 <= date_2 <= date_3 <= date_4 <= date_5 <= project_end_date),
+                                 # 'date1_lt_date2': str(date_1 <= date_2),
+                                 # 'date2_lt_date3': str(date_2 <= date_3),
+                                 # 'date3_lt_date4': str(date_3 <= date_4),
+                                 # 'date4_lt_date5': str(date_4 <= date_5),
+                                 # 'date5_lt_end_date': str(date_5 <= project_end_date)
                                  })
 
     project_data = pd.DataFrame(project_data)
@@ -98,5 +103,5 @@ def generate_projects(schools_df):
         print("PermissionError: Dataset not saved! Do you have Projects.csv open or lack permission to write?")
     except Exception as e:
         print(f"An error occurred: {e}")
-
+    print(f"Projects generated: {len(project_data)}")
     return project_data
